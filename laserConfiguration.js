@@ -1,0 +1,2 @@
+let laserStatus="OFF"
+
