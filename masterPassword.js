@@ -7,3 +7,11 @@ const passwordArray = [
   ['M', '%', '^', '&', '*', '?']
 ];
 
+console.log(
+passwordArray[1][3] + 
+passwordArray[3][4] + 
+passwordArray[2][5] + 
+passwordArray[3][4] + 
+passwordArray[0][4] + 
+passwordArray[0][2]
+)
